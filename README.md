@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @quangpham-glo
+- 👋 Hi, I’m Quang Pham
 
 <!---
 quangpham-glo/quangpham-glo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
